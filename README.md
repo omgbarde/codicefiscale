@@ -18,12 +18,6 @@ The application follows the official rules for generating and validating an Ital
 3. Determining the **municipality code** using data contained in `listcomuni.txt`.
 4. Computing the **check character** to ensure validity.
 
-## 📁 Repository Structure
-- **src/** - Source code for the application.
-- **tests/** - Unit tests to validate functionality.
-- **docs/** - Additional documentation.
-- **README.md** - This file.
-
 ## 🎯 Usage
 You can run the application using any C# IDE if you have a recent .NET framework installed.
 
